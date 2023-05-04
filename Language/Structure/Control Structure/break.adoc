@@ -1,5 +1,5 @@
 ---
-title: break
+title: break :)
 categories: [ "Structure" ]
 subCategories: [ "Control Structure" ]
 ---
